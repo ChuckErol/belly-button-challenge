@@ -5,11 +5,11 @@
 - The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ## Application:
-- Built a function to fecth a sample metadata from JSON file.
+- Built a function to fetch a sample metadata from JSON file.
 - Filtered the data with D3 library for the specific samples.
 - Populated the new tags for each key-value in the filtered metadata.
 ------------------------------------------------------------------------------
-- Built a function to fecth a sample metadata from JSON file.
+- Built a function to fetch a sample metadata from JSON file.
 - Filtered for the chosen sample based on user selection.
 - Obtained relevant data points (OTU IDs, labels, and sample values).
 - Created bubble chart and bar chart.
@@ -25,9 +25,9 @@
 - <a href="https://chuckerol.github.io/belly-button-challenge/" target="_blank">chuckerol.github.io/belly-button-challenge</a>
 
 ## Sources:
-- I found some of my codes from prevoius class activities.
+- I found some of my codes from previous class activities.
 - I ask some questions to my classmates in Slack and during our study group meeting.
-- I found some heplful information with watching varius YouTube videos.
+- I found some helpful information with watching various YouTube videos.
 - I found information from StackOverFlow website.
 
 ![Alt text](images/ss.png)
