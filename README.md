@@ -28,6 +28,6 @@
 - I found some of my codes from previous class activities.
 - I ask some questions to my classmates in Slack and during our study group meeting.
 - I found some helpful information with watching various YouTube videos.
-- I found information from StackOverFlow website.
+- I found some information from StackOverFlow website.
 
 ![Alt text](image/ss.png)
