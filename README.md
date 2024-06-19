@@ -30,4 +30,4 @@
 - I found some helpful information with watching various YouTube videos.
 - I found information from StackOverFlow website.
 
-![Alt text](images/ss.png)
+![Alt text](image/ss.png)
